@@ -13,7 +13,7 @@
     "require": {
         "php": ">=5.6.0",
         "ext-gd": "*",
-        "symfony/dotenv": "~3.4"
+        "symfony/dotenv": "~3.4|~4.0"
     },
     "require-dev": {
         "ext-xdebug": "*",
